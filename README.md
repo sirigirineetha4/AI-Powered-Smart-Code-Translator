@@ -110,11 +110,6 @@ Contributions are welcome!
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open Pull Request
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
-
-## 📝 License
-MIT License - see [LICENSE](LICENSE) file for details
-
 ## 🙋 Support
 - 📧 Email: sirigirineetha@gmail.com
 
