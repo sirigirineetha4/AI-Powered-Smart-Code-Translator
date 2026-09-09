@@ -1,0 +1,49 @@
+AI smart_code_translator/
+│
+├── client/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── CodeEditor.jsx
+│   │   │   ├── HistoryList.jsx
+│   │   │   ├── LanguageSelector.jsx
+│   │   │   ├── Navbar.jsx
+│   │   │   ├── OutputPanel.jsx
+│   │   │   └── ProtectedRoute.jsx
+│   │   │
+│   │   ├── constants/
+│   │   │   └── languages.js
+│   │   │
+│   │   ├── context/
+│   │   │   └── AuthContext.jsx
+│   │   │
+│   │   ├── pages/
+│   │   │   ├── HistoryPage.jsx
+│   │   │   ├── HomePage.jsx
+│   │   │   └── LoginPage.jsx
+│   │   │
+│   │   ├── services/
+│   │   │   ├── api.js
+│   │   │   ├── authService.js
+│   │   │   ├── codeService.js
+│   │   │   └── historyService.js
+│   │   │
+│   │   └── styles/
+│   │
+│   └── package.json
+│
+├── server/
+│   ├── src/
+│   │   ├── config/
+│   │   ├── constants/
+│   │   ├── controllers/
+│   │   ├── middleware/
+│   │   ├── models/
+│   │   ├── routes/
+│   │   ├── services/
+│   │   └── utils/
+│   │
+│   ├── server.js
+│   └── package.json
+│
+├── .gitignore
+└── README.md
